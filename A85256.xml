@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lawfulnesse of infants baptisme. Or, An answer to Thomas Lamb his eight arguments, entituled, The unlawfulnesse of infants baptisme. And may serve also to the false minors, and old out-worne arguments in the late book of C. Paul Hobson, till a more particuler and compleat answer come forth to anatomise the fallasies of the said book, entituled, The fallasie of infants baptisme. By Robert Fage Junior. Gent.</title>
+            <author>Fage, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85256</idno>
+            <idno type="STC">Wing F85A</idno>
+            <idno type="STC">Thomason E1189_10</idno>
+            <idno type="STC">ESTC R208286</idno>
+            <idno type="EEBO-CITATION">99867246</idno>
+            <idno type="PROQUEST">99867246</idno>
+            <idno type="VID">169454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169454)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lawfulnesse of infants baptisme. Or, An answer to Thomas Lamb his eight arguments, entituled, The unlawfulnesse of infants baptisme. And may serve also to the false minors, and old out-worne arguments in the late book of C. Paul Hobson, till a more particuler and compleat answer come forth to anatomise the fallasies of the said book, entituled, The fallasie of infants baptisme. By Robert Fage Junior. Gent.</title>
+                  <author>Fage, Robert.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "A confutation of infants baptisme" by Thomas Lamb and "The fallacy of infants baptisme discovered" by Paul Hobson.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 16th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lamb, Thomas, d. 1686. --  Confutation of infants baptisme --  Controversial literature --  Early works to 1800.</term>
+               <term>Hobson, Paul. --  Fallacy of infants baptisme discovered --  Controversial literature --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169454:1" rendition="simple:additions"/>
+            <p>The Lawfulneſſe OF Infants Baptiſme. OR, An Anſwer to <hi>Thomas Lamb</hi> his eight Arguments, entituled, <hi>The unlawfulneſſe of Infants BAPTISME.</hi>
+            </p>
+            <p>And may ſerve alſo to the falſe <hi>minors,</hi> and old out-worne Arguments in the late book of C. <hi>Paul Hobſon,</hi> till a more particuler and compleat Anſwer come forth to anato<g ref="char:EOLhyphen"/>miſe the fallaſies of the ſaid Book, entituled, <hi>The fallaſie of Infants Baptiſme.</hi>
+            </p>
+            <q>For who hath deſpiſed the day of ſmall things,
+<bibl>
+                  <hi>Zac.</hi> 4.10.</bibl>
+            </q>
+            <q>The ſecret things unto Jehovah our God: but thoſe things which are revealed <hi>belong</hi> unto us, and to our children for ever, that we may doe all the words of this Law.
+<bibl>
+                  <hi>Deut.</hi> 29.29.</bibl>
+            </q>
+            <p>By ROBERT FAGE Junior. Gent.</p>
+            <p>
+               <hi>London,</hi> Printed by W. WILSON. 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169454:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Et friends debate, but not abate one whit of their affection: tis one truth we aime at, therefore we ought to ſtrive for <hi>verity,</hi> not for <hi>maſtery,</hi> when truth is on the one ſide diſcovered, &amp; the other do condeſcend, he is not ſo much <hi>conquered</hi> as <hi>con<g ref="char:EOLhyphen"/>querer</hi> in yeelding. Ile not ſay <hi>much,</hi> becauſe he hath ſaid <hi>little,</hi> aiming to be ſhort in my <hi>Anſwer,</hi> as he is in his <hi>Arguments;</hi> deſiring that when we debate things in love, <hi>God who is love,</hi> would reveale the truth unto us, that we may know how to make choice thereof for the good of us and our po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <closer>
+               <signed>Thine in the fellowſhip of the Goſpel, <hi>R. F.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169454:2"/>
+            <head>An anſwer to <hi>Thomas Lamb</hi> his eight Arguments entituled, <hi>The unlawfulneſſe of Childrens BAPTISME.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Maſter</hi> Lambe,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N your</hi> Title Page, <hi>you quote ſeverall</hi> Scriptures, <hi>as firſt,</hi> Rom. 9.7, 8. Gal. 3.7.29. <hi>which places prove indeed,</hi> that none are ſpiritually bleſſed, and have right un<g ref="char:EOLhyphen"/>to the Covenant, but the ſpirituall ſeed. <hi>Yet this will not prove, that a</hi> Church <hi>muſt</hi> baptize <hi>only thoſe who are</hi> internally ſpirituall perſons, <hi>(though none are baptized indeed but ſuch.) You know</hi> Simon, Acts 8. <hi>had</hi> outward Bap<g ref="char:EOLhyphen"/>tiſme, <hi>and ſo thoſe</hi> Antichriſts. 1 Iohn 2.19. <hi>were a while accounted Members of</hi> y<hi rend="sup">e</hi> Church, <hi>till they left it and were diſcovered: ſo that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here is nothing againſt the baptiſing of</hi> beleevers Infants <hi>being in no ſuch danger of</hi> hipocriſie <hi>at</hi> falſe brethren <hi>are in. You quote</hi> Acts 8.12. <hi>where, upon profeſsion of faith they were</hi> baptized both men and women. Proſelites <hi>muſt come in by</hi> acknowledgement <hi>and</hi> profeſſion. <hi>So were theſe admitted. This doth not then exclude the</hi>
+               <pb n="4" facs="tcp:169454:3"/>male <hi>or</hi> female Infants <hi>of ſuch</hi> Proſolites <hi>from</hi> Baptiſme, <hi>but ſheweth the largements of the</hi> Go<g ref="char:EOLhyphen"/>ſpel <hi>above the</hi> Law: <hi>That ſealed a</hi> male; <hi>but this</hi> male <hi>and</hi> female. <hi>The other places,</hi> Acts 8. 37. <hi>&amp;</hi> 10.47, 48. <hi>&amp;</hi> 11.17. <hi>all tend to one end in their true ſcope, that is, to bring the Gen<g ref="char:EOLhyphen"/>tile, (ſometimes afarre off) now neare, and that by</hi> profeſſion of faith, <hi>even as the</hi> ſtranger <hi>under the</hi> Law, <hi>might come in, and be</hi> one with the people of the Jewes <hi>by</hi> acknowledgement, <hi>and</hi> voluntary ſubjection <hi>to the</hi> Law, Exod. 12.48. <hi>and this the</hi> Parent, <hi>a</hi> ſtranger <hi>was to performe, and then his</hi> Infant <hi>was alſo admitted upon the</hi> parents voluntary manifeſtation <hi>of his deſire. And the</hi> Churches <hi>of</hi> Chriſt <hi>are now by</hi> faith <hi>come into the</hi> Jews ſtate, <hi>and</hi> grafted <hi>in as they were broken off:</hi> as they were broken off, Ro. 11.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> I <hi>Come now to your</hi> Arguments; <hi>your firſt is.</hi> That which makes the traditions of men of equall authority with the Law of God, ought in no wiſe to be, Mat. 15.6. Mar. 7.7. But the Bap<g ref="char:EOLhyphen"/>tiſme of Infants, though of beleeving Parents, doth ſo. Therefore that ought not to be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <hi>Hear we deny the</hi> minor, <hi>which you goe about to prove thus.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> That which is an action of religion performed and not one jot or tittle of the word requiring the ſame, that makes the Traditions of men of equall authority with the Law of God: But the baptiſme of Infants, though of Beleevers, is an
+<pb n="5" facs="tcp:169454:3"/>action of Religion ſuppoſed, to bee performed, and not one jot or tittle of the word requiring the ſame: Therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <hi>Hear we deny your</hi> minor <hi>again; for we have the</hi> Covenant <hi>made with</hi> Abraham <hi>and to all</hi> beleevers, <hi>Gen.</hi> 17. That God will be a God to them, and to their ſeed after them, <hi>explained in the</hi> ſecond Commandement, <hi>That</hi> God will ſhew mercy unto thouſands of them that love him and keep his Commandements. <hi>Therefore</hi> (<hi>Iſa.</hi> 44.3.) I will povre (ſaith <hi>God</hi>) my Spi<g ref="char:EOLhyphen"/>rit upon thy ſeed, and my bleſſing upon thine off-ſpring; and they ſhall ſpring up as among the graſſe, as Willowes by the water courſes. <hi>And</hi> Iſa. 59.21. <hi>this</hi> Covenant <hi>is renewed.</hi> My Spirit which is upon thee, and my words which I have put in thy mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy ſeed, nor out of the mouth of thy ſeeds ſeed (ſaith the Lord) from henceforth &amp; for ever. <hi>Which</hi> Cove<g ref="char:EOLhyphen"/>nant <hi>was revived to Abraham, and confirmed by Chriſt,</hi> Gen. 17.7. Rom. 15.8. <hi>the</hi> Covenant <hi>being ſtill one,</hi> Heb. 13.20. <hi>though the</hi> typicall ordinances <hi>thereof be changed. And therefore were the</hi> Iſraelites <hi>nation called a</hi> holy ſeed, <hi>Ezr.</hi> 9.2. <hi>a</hi> godly ſeed, <hi>Mal.</hi> 2.15. <hi>and were</hi> Circumciſed, eate <hi>of the</hi> Manna), drank of the Rock, paſſed through, and were Baptized in the Cloud and Sea: <hi>and thoſe</hi> Ordinances <hi>are de<g ref="char:EOLhyphen"/>clared to be the ſame with our</hi> ſpirituall Ordi<g ref="char:EOLhyphen"/>nances
+<pb n="6" facs="tcp:169454:4"/>of Baptiſme, <hi>and the</hi> Supper, 1 Cor. 10.1, 2. <hi>The Goſpell alſo declareth that</hi> yong chil<g ref="char:EOLhyphen"/>dren [Infants] <hi>were</hi> brought to Chriſt, <hi>and he gave them</hi> impoſition of hands, Luke 18.15. Mat. 19.15. <hi>And</hi> [little children] <hi>propoſed as an example, and parterne of imitation to the very chife of the Church-members,</hi> Mat. 18.2, 34. 1 Pet. 2.2. <hi>&amp;</hi> Mat. 19.14. <hi>&amp;</hi> Mat. 10.14. <hi>Christ would not have</hi> little children <hi>kept from him,</hi> for of ſuch is the kingdome of heaven. <hi>And</hi> Peter <hi>ſaith,</hi> Acts 2.39. The promiſe is to you, and to your children, <hi>whom</hi> Paul <hi>calleth,</hi> holy Children, 1 Corinh. 7.14. <hi>in relation to</hi> Ezra. <hi>And the Goſpel (propheſie) of</hi> Zachary <hi>is, that</hi> the ſtreets of the City ſhall be full of boyes and girles, playing in the ſtreets thereof. <hi>And</hi> Act. 2.17. <hi>God is ſaid to</hi> poure out his ſpirit upon all fleſh. <hi>The beleeving Gentile by faith being engraffed, and his ſeed with him into the ſame ſtocke and ſtate, out of which the Iew by unbe<g ref="char:EOLhyphen"/>leefe is broken off. See</hi> Rom. 11.19, 20, 21. <hi>As may alſo appeare by comparing,</hi> Exod. 19.5, 6. Deut. 10.14, 15. <hi>with</hi> 2 Pet. 2.9. Rev. 1.6. <hi>where the Saints Titles and expreſſions are ap<g ref="char:EOLhyphen"/>plyed to the</hi> beleeving Gentile, <hi>as they were to the</hi> beleeving Jew. Can any man then forbid water to theſe (children of promiſe) who have received the Holy Ghoſt as welll as wee, Acts 10.47. John Baptiſt <hi>underſtood their right, when</hi> there went out unto him all the land of
+<pb n="7" facs="tcp:169454:4"/>Judea, and they of Jeruſalem, and were all bap<g ref="char:EOLhyphen"/>tized of him in the river of Jordan, confeſſing their ſinnes, Mark 1.5. <hi>Now that it was ordi<g ref="char:EOLhyphen"/>nary for the</hi> Parents <hi>to carry their</hi> children <hi>with them, appeares by thoſe two examples of the</hi> five thouſand men, beſides women and children, fed with ſeven loaves, <hi>Mat.</hi> 15.38. <hi>And the</hi> Chur<g ref="char:EOLhyphen"/>ches bearing <hi>Paul</hi> company with wives and Children, <hi>Acts</hi> 21.5. <hi>If you ſay<g ref="char:punc">▪</g>
+               </hi> children <hi>could not confeſſe their ſinnes, and profeſſe repentance therefore were not baptiſed; I anſwer, This wil, not be granted, ſeeing ſubmiſsion to</hi> Baptiſme <hi>was it ſelfe a</hi> Confeſſion of ſin, <hi>and</hi> profeſſion of Repentance: <hi>as</hi> Circumciſion <hi>made men</hi> debters <hi>to keep the whole</hi> Law, <hi>Gal.</hi> 5.3. <hi>which no</hi> Infant <hi>could</hi> promiſe <hi>by word, but his</hi> ſubmitting there<g ref="char:EOLhyphen"/>to <hi>was his bond. And as</hi> John Baptiſt, <hi>ſo like<g ref="char:EOLhyphen"/>wiſe</hi> Chriſt <hi>himſelfe alſo, by his</hi> Diſciples, Bap<g ref="char:EOLhyphen"/>tiſed the Children, <hi>that came or were</hi> brought unto him. <hi>As appeares by that large teſtimony, That he</hi> baptized, <hi>and</hi> all men came unto him, John 3.26. <hi>which compared with</hi> John 7.22, 23. Yee on the Sabbath day circumciſe a man: If a man on the Sabbath day receive Circumci<g ref="char:EOLhyphen"/>ſion, <hi>Iohn</hi> 16.21. For joy that a man is borne into the world, <hi>Gen.</hi> 4.1. I have gotten a man from the Lord. <hi>All which doth ſhew that chil<g ref="char:EOLhyphen"/>dren were uſually called men, and ſo not exclu<g ref="char:EOLhyphen"/>ded from</hi> Chriſts Baptiſme.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> 
+               <hi>Your</hi> ſecond argument <hi>is;</hi> Every affirmative
+<pb n="8" facs="tcp:169454:5"/>command of Chriſt hath its negative, ſo that whoſoever Chriſt hath commanded to be bap<g ref="char:EOLhyphen"/>tized, ought ſo to be, and all others prohibited. But the affirmative command of Chriſt to his Apoſtles, is <hi>Matth.</hi> 28.18. That they ſhould teach all nations, baptizing them, (that is, thoſe that are taught either by themſelves or ſome o<g ref="char:EOLhyphen"/>ther) therefore the Apoſties were prohibited from baptizing any that were not firſt taught.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <hi>The</hi> minor <hi>of this</hi> Argument <hi>hath</hi> ſome <hi>deceipt in it, the commiſſion here being urged in another manner then the word in the originall will be are, for it is not to be tranſlated, Teach all nations: but Mat.</hi> 28.19. Make all nati<g ref="char:EOLhyphen"/>ons Diſciples<g ref="char:punc">▪</g> baptizing them, &amp;c. <hi>ver.</hi> 20. tea<g ref="char:EOLhyphen"/>ching them. <hi>And here is indeed</hi> a negative com<g ref="char:EOLhyphen"/>mand, <hi>not to</hi> baptize <hi>any but</hi> Diſciples, <hi>And this blames thoſe who</hi> baptize <hi>the</hi> Infants <hi>of them who are not</hi> viſible Diſciples: <hi>but here are two things to be conſidered. <note place="margin">☞</note> Firſt, whether</hi> beleevers Infants <hi>are not</hi> Diſciples <hi>of</hi> Chriſt, <hi>as the</hi> Jews Infants <hi>were</hi> Diſciples <hi>of</hi> Moſes, <note place="margin">☞</note> 
+               <hi>the</hi> Spirit <hi>uſing the ſame word, which it doth here of</hi> Moſes Diſ<g ref="char:EOLhyphen"/>ciples, John 9.28. <hi>who were</hi> ſealed <hi>with</hi> Cir<g ref="char:EOLhyphen"/>cumciſion, <hi>as</hi> Chriſts Diſciples <hi>with</hi> baptiſme, (<hi>and the</hi> beleeving Gentiles <hi>alſo, being in the ſame eſtate with the</hi> beleeving Jew <hi>as was pro<g ref="char:EOLhyphen"/>ved before.</hi>) (<hi>Secondly, if an</hi> unbeleever <hi>be</hi> bap<g ref="char:EOLhyphen"/>tized with water <hi>before he</hi> beleeveth, <hi>and after come to</hi> beleeve, <hi>and to be a</hi> Diſciple, <hi>whether he
+<pb n="9" facs="tcp:169454:5"/>muſt be</hi> baptized <hi>again? And for this, whether there be any word in</hi> Scripture <hi>to warrant a</hi> ſe<g ref="char:EOLhyphen"/>cond baptizing with water into the name of Chriſt. <hi>For my part I know none? but this I know, that wee muſt practiſe nothing without warrant: So that this</hi> argument <hi>and your</hi> other, <hi>thereupon, which you frame thus,</hi> (If the Apo<g ref="char:EOLhyphen"/>ſtles were prohibited in the negative of Chriſts command touching baptiſme, from baptizing a<g ref="char:EOLhyphen"/>ny that were not firſt taught, either by them<g ref="char:EOLhyphen"/>ſelves or ſome other, then ought not the Infants no not of beleevers to be baptized, becauſe none can know them to be taught, ſeeng they make no profeſſion of faith and repentance: but the Apoſtles were prohibited from baptizing any that were not firſt taught in the negative of Chriſts command touching baptiſme. Therfore the Infants of beleevers are not to be baptized.) <hi>will hold well againſt thoſe that are not made</hi> Diſciples, <hi>but not againſt</hi> Infants <hi>as not taught, and the commiſſion being to make</hi> Diſciples, <hi>all nations and</hi> baptize <hi>them, muſt needs lead to</hi> baptize Infants <hi>as a part of them.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>3</label> 
+               <hi>Your</hi> third argument <hi>is?</hi> That which over<g ref="char:EOLhyphen"/>throws the nature of the covenant of grace, ought in no wiſe to be. But the baptiſme of In<g ref="char:EOLhyphen"/>fants, though of beleevers, doth ſo. Therefore &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Here we deny the</hi> minor, <hi>which you ſeeme to prove thus:</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> That which is adminiſtred upon a ſuppoſed intereſt in the covenant of grace, with<g ref="char:EOLhyphen"/>out faith in the perſon ſo intereſted. That over<g ref="char:EOLhyphen"/>throws
+<pb n="10" facs="tcp:169454:6"/>the nature of the covenant of grace, be cauſe perſons have intereſt therein no otherwiſe then by faith, <hi>Rom.</hi> 4.16. <hi>Gal.</hi> 3.9.29. any thing elſe concluded ſo, makes the promiſe or cove<g ref="char:EOLhyphen"/>nant void, <hi>Rom.</hi> 4.16. <hi>Gal.</hi> 3.18. But the bap<g ref="char:EOLhyphen"/>tiſme of Infants, though of beleevers, is admini<g ref="char:EOLhyphen"/>ſtred upon a ſuppoſed intereſt in the covenant of grace, without faith in y<hi rend="sup">e</hi> perſon ſo intereſted, <hi>viz.</hi> the faith of their parents. Therefore the baptiſme of Infants, though of beleevers, overthrows the nature of the covenant of grace, and conſequent<g ref="char:EOLhyphen"/>ly ought in no wiſe to be.</p>
+            <p>
+               <hi>I Anſ.</hi> Your minor <hi>here is denied, as being quite co<g ref="char:cmbAbbrStroke">̄</g>trary to the nature of the</hi> covenant <hi>of</hi> grace: <hi>for</hi> y<hi rend="sup">e</hi> doctrine <hi>of the</hi> covenant <hi>is that God of his</hi> free grace <hi>hath made a</hi> promiſe <hi>of</hi> grace <hi>&amp;</hi> life <hi>to all his</hi> elect, upon whom he will ſhew mercy, <hi>Ro.</hi> 9.18. <hi>And that</hi> before they have done good or evill, while they are enemies, reconciling them to God by the blood of his Son, <hi>Rom.</hi> 5.10. and loving them with an everlaſting love, not that they beleeved or loved him, but that he loved them firſt, 1 <hi>Ioh.</hi> 4.10.19. <hi>And this</hi> love <hi>he in time manifeſts, taking</hi> his Abrahams, out of the land of the Caldeans, <hi>Act.</hi> 7.3. his Iſrael out of Egypt, through the red Sea, <hi>verſ.</hi> 36. and his people from the world, <hi>Ioh.</hi> 9.14. into fellow<g ref="char:EOLhyphen"/>ſhip and union with the Father and the Son, &amp; communion of the Spirit, verſ. 21, 22.23. <hi>And thus</hi> God taketh a nation out of a nation, <hi>Deu.</hi> 4.34. <hi>to be</hi> a choſen generation, a royal prieſt<g ref="char:EOLhyphen"/>hood,
+<pb n="11" facs="tcp:169454:6"/>an holy nation, a peculiar people unto him 1 Pet. 2.9. <hi>And the</hi> Spirit, <hi>in this</hi> ſpirituall houſe, <hi>he hath promiſed to be</hi> powred out upon all fleſh both young and old, <hi>Act.</hi> 2.19. <hi>The very</hi> children <hi>being</hi> holy, 1 Cor. 7.14. <hi>becauſe</hi> children of promiſe, Act. 2.39. <hi>having their</hi> ſins forgiven for Chriſts name ſake, 1 <hi>Iohn</hi> 2.12. <hi>Therefore are they to be</hi> baptized into Chriſt, <hi>becauſe they have</hi> viſibly put on Chriſt, Gal. 3.27. <hi>And are diſtinguiſhed from the</hi> world, <hi>in being the</hi> children, <hi>not of the</hi> world, <hi>but of a</hi> be<g ref="char:EOLhyphen"/>leever; <hi>when God draws a people from the world into fellow ſhip with himſelfe, their</hi> little chil<g ref="char:EOLhyphen"/>dren <hi>are diſtinguiſhed from the world, as ſo ma<g ref="char:EOLhyphen"/>ny</hi> perfecters of the praiſe of God, Matth. 21.16. <hi>and are owned</hi> freely <hi>in his</hi> Son <hi>Chriſt before</hi> faith <hi>or</hi> workes manifeſted <hi>actually in their owne perſons. Thoſe who deny the</hi> Infants <hi>of</hi> be<g ref="char:EOLhyphen"/>leevers <hi>thus to be in</hi> Gods viſible houſe, <hi>muſt ne<g ref="char:EOLhyphen"/>ceſſarily hold juſtification not to goe before</hi> actu<g ref="char:EOLhyphen"/>all faith, <hi>which is</hi> Arminius <hi>tenet, or deny</hi> origi<g ref="char:EOLhyphen"/>nal ſin, <hi>or conclude</hi> al infants damned, <hi>or elſe that thoſe who are ſaved, are ſaved ſome other way then by the</hi> Goſpel. <hi>The places you quote, meane no other</hi> juſtification <hi>by</hi> faith, <hi>then imputation. Faith to take hold of free grace, was required in the</hi> Jewiſh parents, <hi>even in</hi> Circumciſion, <hi>as ap<g ref="char:EOLhyphen"/>pears by</hi> Deut. 10.16. &amp; 30.6. (<hi>without which the</hi> Circumciſion outward <hi>was</hi> nothing) <hi>and the like for</hi> baptizing <hi>of</hi> beleevers Infants, <hi>the</hi> Jew within, Rom. 2. ult.</p>
+            <pb n="12" facs="tcp:169454:7"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>4</label> 
+               <hi>Your</hi> fourth argument is: That which over<g ref="char:EOLhyphen"/>throws the nature of Chriſts true viſible Church ought in no wiſe to be. But the baptiſme of be<g ref="char:EOLhyphen"/>leevers Infants doth. So therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>The minor is denyed, you frame an argument to prove it, thus:</hi> If the matter of the Church be only regenerate perſons, and the matter of the viſible Church, ſuch only as appears ſo by their profeſſion of faith &amp; repentance; Then to baptize Infants, is to contradict this, and to overthrow the nature thereof, ſeeing they are born in ſinne, &amp; make no appearance to the contrary; but that they ſo remaine. But the matter of the Church are only regenerate perſons, Ioh. 3.3.5. And the matter of the viſible Church only ſuch as appear ſo by the profeſſion of faith and repentance Ro. 8.15. 1 Cor. 4.15. Therefore to baptize Infants though of beleevers, is to overthrow the nature thereof, &amp; conſequently ought in no wiſe to be.</p>
+            <p>
+               <hi>I Anſw.</hi> Your minor <hi>is not proved, but beg<g ref="char:EOLhyphen"/>ged, but we have proved the Infants of beleevers to be a part of that</hi> nation taken out of a nation<g ref="char:punc">▪</g> Deut. 4.34. The little ones whoſe ſins are forgi<g ref="char:EOLhyphen"/>ven, 1 Joh. 2.12. Holy children, 1 Corin. 7.14. Children of promiſe, Act. 2.39. &amp;c. Of ſuch is the Kingdome of heaven ſaith the King himſelfe, Matth. 19 14. <hi>Therefore very meet to be of and in his</hi> ſpirituall viſible Church: <hi>and in their di<g ref="char:EOLhyphen"/>ſtinction from the</hi> world, <hi>being</hi> beleevers Infants <hi>profeſſion of</hi> faith <hi>and</hi> repentance <hi>may be appro<g ref="char:EOLhyphen"/>priated
+<pb n="13" facs="tcp:169454:7"/>unto them viſibly: as the Iews circum<g ref="char:EOLhyphen"/>ciſion inward, without which</hi> Paul ſaith, <hi>It was not</hi> circumciſion <hi>that was outward in the</hi> Fleſh, <hi>Rom.</hi> 2. <hi>ult: but that of the heart, the anſwer of a goood conſcience ſaith</hi> Peter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>5</label> 
+               <hi>Your</hi> fifth argument <hi>is:</hi> That which makes religion ſubſiſt in the deed done now in the time of the Goſpell, ought in no wiſe to be. Phil. 3.3. John 4.23, 24. But the baptiſme of Infants, though of beleevers, doth ſo, Therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Anſw.</hi> This miner is denyed, your argument for proofe of it is this: <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> That which is an action of religion done, and no faith in the perſon of the doer, required in doing of that thing: that makes religion to ſubſiſt in the deed done. But the baptiſme of Infants, though of beleevers, is an action of religion performed, and no faith re<g ref="char:EOLhyphen"/>quired in the perſon of the doer, in the doing of that thing. Therefore, &amp;c. <hi>I An. The</hi> minor is denyed: Beleevers Infants <hi>are</hi> viſibly <hi>in Gods decree</hi> in the Kingdome of heaven, Mat. 19.14. Having the ſeeds of faith, without which they cannot pleaſe God, Heb. 11.6. And the Spirit of Chriſt, without which they are none of his.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> 
+               <hi>Your</hi> ſixth argument <hi>is,</hi> That which reviveth Judaiſme, and ſo denyeth Chriſt to be come in the Fleſh, ought in no wiſe to be, 1 Iohn 4.3. 2 Iohn 7. But the baptiſme of Infants, though of Beleevers, doth ſo. Therefore, &amp;c.</p>
+            <p>
+               <hi>Anſw. The</hi> minor <hi>is denyed, your</hi> argument
+<pb n="14" facs="tcp:169454:8"/>
+               <hi>for proofe thereof is,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> That practiſe which is grounded upon the Typicall ſeed, which typed out Chriſt the true promiſed ſeed, and ceaſed at his comming. That practice now in reſpect of the ground of that practiſe, reviveth Iudaiſme in the type, and denyeth Chriſt the truth of the type to bee come in the Fleſh. But the bap<g ref="char:EOLhyphen"/>tiſme of Infants (though of beleevers) is groun<g ref="char:EOLhyphen"/>ded upon the typicall ſeede which typed out Chriſt the true promiſed ſeed, and ceaſed at his comming, Gal. 3.16.19. Therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Anſw. The</hi> minor <hi>is denyed.</hi> The practiſe of baptizing <hi>of the</hi> Infants <hi>of</hi> Beleevers, <hi>is groun<g ref="char:EOLhyphen"/>ded upon the</hi> gracious covenant of the Goſpell <hi>to all the</hi> children of God. <hi>Out of which if all</hi> Infants viſibly <hi>are, then either they are all</hi> ſa<g ref="char:EOLhyphen"/>ved <hi>without the</hi> promiſe, <hi>or</hi> damned <hi>for want of the</hi> promiſe.</p>
+            <p>
+               <hi>Your</hi> ſeventh argument is,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>7</label> That which makes the world and the Church all one, &amp; confounds the diſtinction that ought to be betweene them, ought in no wiſe to bee. Col. 4.5. 1 Pet. 2.12. 2 Col. 2.20. 2 Cor. 2.6.15.</p>
+            <p>But the baptiſme of Infants, though of belee<g ref="char:EOLhyphen"/>vers, doth ſo. Therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> 
+               <hi>Your</hi> minor <hi>is denyed: your</hi> Argument <hi>to prove it is;</hi> Thoſe who adminiſter the ſpeciall priviledge, and ordinance of entring perſons in<g ref="char:EOLhyphen"/>to the Church; from common cauſes which do belong unto the world, as well as to the Church,
+<pb n="15" facs="tcp:169454:8"/>doe make the world and the Church all one, and con<g ref="char:EOLhyphen"/>found the diſtinction that ought to bee betwixt them.</p>
+            <p>But to Baptize Infants, though of Beleevers, is to ad<g ref="char:EOLhyphen"/>miniſter the ſpeciall priviledge, the ordinance of entring perſons into the Church, from common cauſes, which doe belong unto the world, as well as to the Church; to wit, the generall offer of promiſe, <hi>Matthew.</hi> 28.19. <hi>Acts</hi> 2.39. which is to be offered to every man and wo<g ref="char:EOLhyphen"/>man in the world, <hi>Mar.</hi> 16.15. or elſe being borne of beleeving Parents, which agrees to <hi>Iſmael</hi> &amp; <hi>Eſau,</hi> as wel as to <hi>Iſaac</hi> &amp; <hi>Iacob,</hi> and all in this reſpect being but fleſh borne in ſinne, and children of wrath, <hi>Iohn</hi> 3.6. <hi>Pſal.</hi> 51.5. <hi>Eph.</hi> 2.3. Therefore, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>In this</hi> minor <hi>is conſiderable what is the</hi> ordinance <hi>of en<g ref="char:EOLhyphen"/>tering perſons into the</hi> Church? <hi>and that properly is not bap<g ref="char:EOLhyphen"/>tiſme, but the</hi> uniting <hi>of the</hi> members of one body <hi>by</hi> one Spirit, <hi>to walk together under</hi> one Lord, <hi>in</hi> one faith, <hi>Eph.</hi> 4.4, 5. <hi>Whence</hi> Baptiſme <hi>and all other ordinances flow; for we baptiſe not to bring into the Church, but becauſe he is in the Church; therefore we baptiſe, (The viſible Church being generally conſidered) ſo that the</hi> minor <hi>is flatly deny<g ref="char:EOLhyphen"/>ed. And as for</hi> common cauſes, <hi>do you account it ſo</hi> co<g ref="char:cmbAbbrStroke">̄</g>mon <hi>to be a</hi> beleevers childe, <hi>when</hi> Paul <hi>counted it as a</hi> privi<g ref="char:EOLhyphen"/>ledg <hi>to</hi> Timothy, <hi>that he continued in the</hi> ſame faith which dwelt, fuſt in his grandmother <hi>Lois,</hi> &amp; his mother <hi>Eunice,</hi> 2 Tim. 1.5. And ſo was borne of beleeving parents. <hi>But Iſhmael</hi> and <hi>Eſau</hi> had that, as well as <hi>Iſaac</hi> and <hi>Iacob. What then? Is it therefore ſuch a</hi> common cauſe <hi>with the world, as therefore beleevers Infants muſt not be</hi> bapti<g ref="char:EOLhyphen"/>zed? <hi>Then likewiſe none muſt be baptized upon</hi> profeſſion
+<pb n="16" facs="tcp:169454:9"/>of faith: <hi>Seeing</hi> Simon, Act. 8.13. Beleeved, <hi>made an</hi> outward profeſſion) and was baptized, <hi>though</hi> in the gall of bitterneſſe, and in the bond of iniquity, v. 23. <hi>Demas for al his profeſſions,</hi> forſook <hi>Paul,</hi> and embraced the pre<g ref="char:EOLhyphen"/>ſent world, 2 Tim. 4.10. <hi>Phigellus</hi> and <hi>Hermogenus</hi> tur<g ref="char:EOLhyphen"/>ned away from Paul <hi>for all their</hi> profeſſions, 2 Tim. 1.15. &amp; Ch. 3. v. 5. <hi>The whole world are under a</hi> profeſſion <hi>or</hi> forme of godlineſſe, but have denyed the power. <hi>Becauſe therefore</hi> profeſſion <hi>may agree with the</hi> world, <hi>as well as with the</hi> Saints, <hi>will you therefore baptize none upon it? This is ſtill a very poor argument, like your former before. So is your</hi> laſt argument, to which I come; which is,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> That w<hi rend="sup">ch</hi> unites perſons with the church of Rome, &amp; Papiſts, ought in no wiſe to be Rev. 18.4. But the baptiſ<g ref="char:EOLhyphen"/>me of Infants, though of beleevers, doth ſo. Therefore, &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> 
+               <hi>Anſ. This minor is denyed, you argue to prove it thus,</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">T. L. </seg>
+               </label> Whereſoever the baptiſme is one, the Church &amp; people is one. But the Papiſts &amp; Romes baptiſme is one with the baptiſme of Infants, though of beleevers. There<g ref="char:EOLhyphen"/>fore, &amp;c. <hi>This minor is very</hi> falſe again. Now you ſtill prove it as ſlightly as you did the former, thus: Becauſe they baptize Infants? <hi>Is this a good conſequence?</hi> The Pa<g ref="char:EOLhyphen"/>piſts baptize Infants, therfore we muſt not baptize Infants. <hi>Then take theſe with you alſo:</hi> The Papiſts read Scriptures, therefore we muſt not read Scriptures. The Papiſts hold it lawfull to pray, therefore we muſt not pray! will not this be good ſtuffe? I end.</p>
+            <p>
+               <hi>The Lord teach us better arguments for the truth then you hava brought heer, &amp; unite our hearts in every triuh of the Goſpel.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
